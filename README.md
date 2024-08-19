@@ -26,7 +26,7 @@ Este projeto é uma aplicação móvel desenvolvida como parte do curso de Desen
 
 ### Como Executar o Projeto
 
-1. Clone o repositório: `git clone https://github.com/seuusuario/seuprojeto.git`
+1. Clone o repositório: `git clone https://github.com/Pedro-HSB/devMobile_facul.git`
 2. Abra o projeto no Android Studio.
 3. Sincronize o Gradle e execute a aplicação em um emulador ou dispositivo físico.
 
